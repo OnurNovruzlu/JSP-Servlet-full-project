@@ -1,0 +1,9 @@
+#search_div{
+    width: 300px;
+    margin-left: 10px;
+    float: right;
+}
+body {
+    background-image: url('img/abc.jpg');
+    background-size: cover;
+}

@@ -1,0 +1,8 @@
+com\mycompany\supermarketweb\ProductDetailController.class
+com\mycompany\supermarketweb\filter\JspFilter.class
+com\mycompany\supermarketweb\ProductAddController.class
+com\mycompany\supermarketweb\filter\SecurityFilter.class
+com\mycompany\supermarketweb\LoginController.class
+com\mycompany\supermarketweb\LogoutController.class
+com\mycompany\supermarketweb\ErrorController.class
+com\mycompany\supermarketweb\ProductController.class
